@@ -2,7 +2,8 @@
 
 ## Overview
 
-## Manage Entry Outcome
+## Outcomes
+### Manage Entry Outcome
 ```mermaid
 graph TB
     s@{ shape: start, label: "start"}
@@ -30,7 +31,7 @@ graph TB
 ```
 
 
-## Maintain Card Outcome
+### Maintain Card Outcome
 ```mermaid
 graph TB
     s@{ shape: start, label: "start"}
@@ -60,7 +61,8 @@ graph TB
 ## Constraints
 
 
-## Increment History 
-| Version | Date | Description |
-| --- | --- | --- |
+## Diagnostic Increment History 
+| Version | Date | Increment | Package |
+|---------|------|-----------|---------|
+
 
