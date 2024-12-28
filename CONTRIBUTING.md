@@ -1,4 +1,4 @@
-# Contributing Guidelines
+# Contributing Guidelines - TO DO
 Thank you for your interest in contributing to the project! 
 
 By following this guideline, we hope to ensure that your contributions are made smoothly and efficiently.
@@ -135,7 +135,7 @@ You might see _lint_ or _formatting_ warnings. Those are ok during this step.
 
 Contributing process is very simple and straightforward:
 
-```mermaid-nocode
+```mermaid
   flowchart LR
 
   branch --> changes --> submit
@@ -148,7 +148,7 @@ Mermaid uses a [Git Flow](https://guides.github.com/introduction/flow/)–inspir
 
 Development is done in the `develop` branch.
 
-```mermaid-nocode
+```mermaid
 ---
 config:
   gitGraph:
@@ -203,7 +203,7 @@ You can always check current [configuration of labelling and branch prefixes](ht
 - followed by an **underscore** (`_`)
 - followed by a **short description** with dashes (`-`) or underscores (`_`) instead of spaces
 
-```mermaid-nocode
+```mermaid
 flowchart LR
   feature --> slash
   bug --> slash
