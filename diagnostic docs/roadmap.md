@@ -59,10 +59,3 @@ graph TB
 ```
 
 ## Constraints
-
-
-## Diagnostic Increment History 
-| Version | Date | Increment | Package |
-|---------|------|-----------|---------|
-
-
