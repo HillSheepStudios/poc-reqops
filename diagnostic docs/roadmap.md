@@ -1,9 +1,9 @@
-# Target System Roadmap
+# Future State Roadmap
 
 ## Overview
 
 ## Outcomes
-### Manage Entry Outcome
+### Manage Entry
 ```mermaid
 graph TB
     s@{ shape: start, label: "start"}
@@ -31,7 +31,7 @@ graph TB
 ```
 
 
-### Maintain Card Outcome
+### Maintain Card
 ```mermaid
 graph TB
     s@{ shape: start, label: "start"}
